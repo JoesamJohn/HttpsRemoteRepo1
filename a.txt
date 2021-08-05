@@ -1,1 +1,2 @@
 Content of the test file
+To test SSH protocol
