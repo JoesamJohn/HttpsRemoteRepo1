@@ -1,2 +1,6 @@
 Content of the test file
+<<<<<<< HEAD
 To test SSH protocol
+=======
+Changes made at remot GitHub Repository
+>>>>>>> d6b4f2b5067876938a330376a82f146fa7f42fe9
